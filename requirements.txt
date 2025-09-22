@@ -2,4 +2,3 @@ ultralytics
 opencv-python-headless
 streamlit
 matplotlib
-cv2
